@@ -1,0 +1,1405 @@
+Results summary
+Results in tuner\vit
+Showing 100 best trials
+Objective(name="val_accuracy", direction="max")
+
+Trial 0166 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 176
+num_heads: 3
+trans_layers: 4
+head_one: 512
+head_two: 1984
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.5107700228691101
+
+Trial 0515 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 256
+num_heads: 2
+trans_layers: 2
+head_one: 1792
+head_two: 1280
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.5107499957084656
+
+Trial 0513 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 224
+num_heads: 4
+trans_layers: 4
+head_one: 2048
+head_two: 1984
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.5107100009918213
+
+Trial 0687 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 128
+num_heads: 3
+trans_layers: 5
+head_one: 128
+head_two: 1088
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.5095199942588806
+
+Trial 0169 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 224
+num_heads: 3
+trans_layers: 2
+head_one: 512
+head_two: 1152
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.5093399882316589
+
+Trial 0510 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 128
+num_heads: 4
+trans_layers: 6
+head_one: 192
+head_two: 960
+tuner/epochs: 100
+tuner/initial_epoch: 34
+tuner/bracket: 1
+tuner/round: 1
+tuner/trial_id: 0501
+Score: 0.5082899928092957
+
+Trial 0681 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 240
+num_heads: 4
+trans_layers: 6
+head_one: 1472
+head_two: 1600
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.5076900124549866
+
+Trial 0342 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 2
+trans_layers: 2
+head_one: 512
+head_two: 1728
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.506879985332489
+
+Trial 0339 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 96
+num_heads: 6
+trans_layers: 4
+head_one: 128
+head_two: 1024
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.5054699778556824
+
+Trial 0332 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 224
+num_heads: 6
+trans_layers: 3
+head_one: 192
+head_two: 1984
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.505299985408783
+
+Trial 0501 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 128
+num_heads: 4
+trans_layers: 6
+head_one: 192
+head_two: 960
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.5046200156211853
+
+Trial 0336 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 112
+num_heads: 4
+trans_layers: 3
+head_one: 1856
+head_two: 1728
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.5044900178909302
+
+Trial 0859 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 96
+num_heads: 6
+trans_layers: 4
+head_one: 1856
+head_two: 192
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.5041900277137756
+
+Trial 0675 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 80
+num_heads: 2
+trans_layers: 6
+head_one: 1088
+head_two: 1024
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.5033800005912781
+
+Trial 0506 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 4
+trans_layers: 2
+head_one: 1664
+head_two: 1600
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.5030900239944458
+
+Trial 0163 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 2
+trans_layers: 4
+head_one: 1664
+head_two: 448
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.5029399991035461
+
+Trial 0502 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 160
+num_heads: 3
+trans_layers: 5
+head_one: 1152
+head_two: 128
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.5026599764823914
+
+Trial 0680 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 224
+num_heads: 5
+trans_layers: 2
+head_one: 320
+head_two: 1408
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.5019999742507935
+
+Trial 0684 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 48
+num_heads: 2
+trans_layers: 4
+head_one: 1984
+head_two: 2048
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.49900001287460327
+
+Trial 0141 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 176
+num_heads: 2
+trans_layers: 6
+head_one: 512
+head_two: 1088
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.49803999066352844
+
+Trial 0498 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 176
+num_heads: 2
+trans_layers: 6
+head_one: 1216
+head_two: 1088
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4971500039100647
+
+Trial 0659 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 240
+num_heads: 2
+trans_layers: 6
+head_one: 576
+head_two: 192
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4956200122833252
+
+Trial 0848 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 64
+num_heads: 2
+trans_layers: 3
+head_one: 1664
+head_two: 1664
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.4950299859046936
+
+Trial 0144 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 192
+num_heads: 5
+trans_layers: 3
+head_one: 1280
+head_two: 960
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4947899878025055
+
+Trial 0328 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 2
+trans_layers: 4
+head_one: 704
+head_two: 1536
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.49472999572753906
+
+Trial 0149 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 4
+trans_layers: 6
+head_one: 768
+head_two: 768
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4946399927139282
+
+Trial 0503 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 64
+num_heads: 5
+trans_layers: 3
+head_one: 1216
+head_two: 1280
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.4945000112056732
+
+Trial 0152 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 176
+num_heads: 5
+trans_layers: 4
+head_one: 704
+head_two: 1024
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4941299855709076
+
+Trial 0657 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 112
+num_heads: 2
+trans_layers: 6
+head_one: 1856
+head_two: 1920
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.49380001425743103
+
+Trial 0664 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 256
+num_heads: 3
+trans_layers: 4
+head_one: 768
+head_two: 320
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.49233999848365784
+
+Trial 0317 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 112
+num_heads: 6
+trans_layers: 5
+head_one: 896
+head_two: 1152
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4914799928665161
+
+Trial 0505 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 48
+num_heads: 3
+trans_layers: 5
+head_one: 1216
+head_two: 704
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.49052000045776367
+
+Trial 0171 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 256
+num_heads: 3
+trans_layers: 2
+head_one: 1728
+head_two: 704
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.4899500012397766
+
+Trial 0312 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 2
+trans_layers: 3
+head_one: 192
+head_two: 704
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4895400106906891
+
+Trial 0850 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 208
+num_heads: 2
+trans_layers: 2
+head_one: 1088
+head_two: 1088
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.4877699911594391
+
+Trial 0154 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 256
+num_heads: 6
+trans_layers: 3
+head_one: 1728
+head_two: 576
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.48649999499320984
+
+Trial 0855 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 144
+num_heads: 3
+trans_layers: 3
+head_one: 1088
+head_two: 1792
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.4860199987888336
+
+Trial 0847 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 112
+num_heads: 3
+trans_layers: 6
+head_one: 704
+head_two: 1344
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.484279990196228
+
+Trial 0331 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 192
+num_heads: 3
+trans_layers: 5
+head_one: 1728
+head_two: 896
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.48388999700546265
+
+Trial 0511 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 112
+num_heads: 2
+trans_layers: 4
+head_one: 2048
+head_two: 448
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.482589989900589
+
+Trial 0835 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 256
+num_heads: 6
+trans_layers: 2
+head_one: 1536
+head_two: 384
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.48076000809669495
+
+Trial 0311 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 80
+num_heads: 2
+trans_layers: 3
+head_one: 128
+head_two: 1088
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.47964999079704285
+
+Trial 0446 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 208
+num_heads: 2
+trans_layers: 4
+head_one: 640
+head_two: 1792
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4779900014400482
+
+Trial 0677 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 112
+num_heads: 5
+trans_layers: 6
+head_one: 1408
+head_two: 960
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.4777199923992157
+
+Trial 0318 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 48
+num_heads: 5
+trans_layers: 5
+head_one: 1344
+head_two: 1536
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.47679999470710754
+
+Trial 0854 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 80
+num_heads: 3
+trans_layers: 6
+head_one: 1216
+head_two: 768
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.47628000378608704
+
+Trial 0165 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 256
+num_heads: 6
+trans_layers: 5
+head_one: 896
+head_two: 192
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.47606000304222107
+
+Trial 0683 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 80
+num_heads: 5
+trans_layers: 6
+head_one: 1152
+head_two: 128
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.47585999965667725
+
+Trial 0688 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 240
+num_heads: 6
+trans_layers: 3
+head_one: 256
+head_two: 768
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.4758000075817108
+
+Trial 0323 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 48
+num_heads: 5
+trans_layers: 6
+head_one: 768
+head_two: 832
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.47567999362945557
+
+Trial 0285 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 256
+num_heads: 2
+trans_layers: 5
+head_one: 1600
+head_two: 1984
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.47558000683784485
+
+Trial 0504 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 48
+num_heads: 3
+trans_layers: 2
+head_one: 1280
+head_two: 64
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.47494998574256897
+
+Trial 0826 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 160
+num_heads: 2
+trans_layers: 5
+head_one: 1728
+head_two: 1856
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.474839985370636
+
+Trial 0142 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 176
+num_heads: 2
+trans_layers: 2
+head_one: 896
+head_two: 1664
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4734399914741516
+
+Trial 0495 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 176
+num_heads: 2
+trans_layers: 5
+head_one: 1472
+head_two: 1408
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.47304001450538635
+
+Trial 0629 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 176
+num_heads: 4
+trans_layers: 2
+head_one: 1856
+head_two: 2048
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4726699888706207
+
+Trial 0799 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 176
+num_heads: 4
+trans_layers: 4
+head_one: 1408
+head_two: 1408
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4719899892807007
+
+Trial 0649 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 192
+num_heads: 3
+trans_layers: 5
+head_one: 1984
+head_two: 1920
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.47192999720573425
+
+Trial 0648 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 128
+num_heads: 3
+trans_layers: 5
+head_one: 896
+head_two: 1856
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.47181999683380127
+
+Trial 0801 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 192
+num_heads: 3
+trans_layers: 3
+head_one: 960
+head_two: 704
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4714600145816803
+
+Trial 0679 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 192
+num_heads: 4
+trans_layers: 2
+head_one: 64
+head_two: 384
+tuner/epochs: 34
+tuner/initial_epoch: 0
+tuner/bracket: 1
+tuner/round: 0
+Score: 0.4714300036430359
+
+Trial 0461 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 224
+num_heads: 3
+trans_layers: 2
+head_one: 1344
+head_two: 1216
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4713999927043915
+
+Trial 0296 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 240
+num_heads: 2
+trans_layers: 3
+head_one: 1664
+head_two: 576
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4704599976539612
+
+Trial 0669 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 144
+num_heads: 4
+trans_layers: 2
+head_one: 1920
+head_two: 1664
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4688900113105774
+
+Trial 0279 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 208
+num_heads: 4
+trans_layers: 4
+head_one: 640
+head_two: 1728
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46838000416755676
+
+Trial 0282 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 224
+num_heads: 2
+trans_layers: 2
+head_one: 1088
+head_two: 512
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46825000643730164
+
+Trial 0819 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 112
+num_heads: 4
+trans_layers: 3
+head_one: 1024
+head_two: 1600
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4681200087070465
+
+Trial 0111 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 3
+trans_layers: 5
+head_one: 640
+head_two: 832
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4680899977684021
+
+Trial 0153 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 176
+num_heads: 3
+trans_layers: 6
+head_one: 1728
+head_two: 512
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.46799999475479126
+
+Trial 0489 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 128
+num_heads: 4
+trans_layers: 2
+head_one: 1088
+head_two: 1344
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.46799999475479126
+
+Trial 0476 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 6
+trans_layers: 2
+head_one: 2048
+head_two: 1728
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4678199887275696
+
+Trial 0480 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 208
+num_heads: 4
+trans_layers: 5
+head_one: 1472
+head_two: 1216
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4676699936389923
+
+Trial 0313 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 160
+num_heads: 2
+trans_layers: 4
+head_one: 1920
+head_two: 320
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4672200083732605
+
+Trial 0672 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 32
+num_heads: 6
+trans_layers: 5
+head_one: 832
+head_two: 2048
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.46709999442100525
+
+Trial 0286 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 208
+num_heads: 4
+trans_layers: 2
+head_one: 576
+head_two: 1472
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4670799970626831
+
+Trial 0841 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 128
+num_heads: 4
+trans_layers: 5
+head_one: 704
+head_two: 960
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4670400023460388
+
+Trial 0134 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 112
+num_heads: 6
+trans_layers: 2
+head_one: 1728
+head_two: 1216
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46696001291275024
+
+Trial 0496 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 96
+num_heads: 4
+trans_layers: 5
+head_one: 960
+head_two: 1216
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4668700098991394
+
+Trial 0299 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 2
+trans_layers: 2
+head_one: 1664
+head_two: 1344
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4667600095272064
+
+Trial 0294 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 2
+trans_layers: 5
+head_one: 192
+head_two: 1152
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46658000349998474
+
+Trial 0297 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 224
+num_heads: 5
+trans_layers: 3
+head_one: 1344
+head_two: 768
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4665699899196625
+
+Trial 0836 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 208
+num_heads: 5
+trans_layers: 3
+head_one: 1024
+head_two: 1024
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.46630001068115234
+
+Trial 0449 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 96
+num_heads: 3
+trans_layers: 6
+head_one: 1344
+head_two: 1856
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46619001030921936
+
+Trial 0459 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 160
+num_heads: 5
+trans_layers: 5
+head_one: 1472
+head_two: 960
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46511998772621155
+
+Trial 0845 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 112
+num_heads: 5
+trans_layers: 3
+head_one: 576
+head_two: 320
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4650700092315674
+
+Trial 0660 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 176
+num_heads: 6
+trans_layers: 4
+head_one: 896
+head_two: 896
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4650000035762787
+
+Trial 0457 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 96
+num_heads: 6
+trans_layers: 5
+head_one: 768
+head_two: 1600
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4644399881362915
+
+Trial 0458 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 192
+num_heads: 2
+trans_layers: 2
+head_one: 128
+head_two: 1408
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4641900062561035
+
+Trial 0500 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 144
+num_heads: 4
+trans_layers: 3
+head_one: 64
+head_two: 768
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.46355998516082764
+
+Trial 0512 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 224
+num_heads: 6
+trans_layers: 4
+head_one: 128
+head_two: 128
+tuner/epochs: 100
+tuner/initial_epoch: 0
+tuner/bracket: 0
+tuner/round: 0
+Score: 0.4633600115776062
+
+Trial 0805 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 6
+trans_layers: 2
+head_one: 640
+head_two: 832
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4631499946117401
+
+Trial 0106 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 240
+num_heads: 5
+trans_layers: 4
+head_one: 1088
+head_two: 832
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46312999725341797
+
+Trial 0840 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 240
+num_heads: 4
+trans_layers: 2
+head_one: 256
+head_two: 1792
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4625900089740753
+
+Trial 0315 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 96
+num_heads: 3
+trans_layers: 2
+head_one: 768
+head_two: 1216
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4624499976634979
+
+Trial 0105 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 144
+num_heads: 4
+trans_layers: 3
+head_one: 64
+head_two: 1344
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.4620800018310547
+
+Trial 0138 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 96
+num_heads: 4
+trans_layers: 2
+head_one: 1088
+head_two: 1088
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46202999353408813
+
+Trial 0839 summary
+Hyperparameters:
+patch_size: 4
+proj_dim: 80
+num_heads: 5
+trans_layers: 2
+head_one: 1664
+head_two: 1472
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.46191999316215515
+
+Trial 0310 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 192
+num_heads: 4
+trans_layers: 2
+head_one: 448
+head_two: 512
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46189001202583313
+
+Trial 0658 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 32
+num_heads: 3
+trans_layers: 6
+head_one: 768
+head_two: 768
+tuner/epochs: 12
+tuner/initial_epoch: 0
+tuner/bracket: 2
+tuner/round: 0
+Score: 0.4613400101661682
+
+Trial 0653 summary
+Hyperparameters:
+patch_size: 2
+proj_dim: 64
+num_heads: 6
+trans_layers: 5
+head_one: 1152
+head_two: 1536
+tuner/epochs: 4
+tuner/initial_epoch: 0
+tuner/bracket: 3
+tuner/round: 0
+Score: 0.46088001132011414

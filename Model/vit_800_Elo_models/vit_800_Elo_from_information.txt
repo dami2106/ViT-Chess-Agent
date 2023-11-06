@@ -1,0 +1,5 @@
+Model Name : vit
+Dataset used : 
+Side trained on : from
+Seed : 42
+Batch Size : 2048

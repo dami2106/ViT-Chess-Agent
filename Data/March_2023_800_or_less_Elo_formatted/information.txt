@@ -1,0 +1,11 @@
+Filename : March_2023_800_or_less_Elo.pgn
+392061 Games saved.
+18601618 Moves saved.
+2285285 Games available in PGN.
+MAX_GAMES set to : 400000
+ELO_THRESH set to : 1000
+BLACK_WIN set to : 200000
+WHITE_WIN set to : 200000
+BLACK GAMES SAVED : 188646
+WHITE GAMES SAVED : 200000
+Saved to March_2023_800_or_less_Elo_formatted folder.
